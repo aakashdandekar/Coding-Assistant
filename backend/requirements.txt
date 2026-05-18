@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+asyncio
+motor
+pymongo
+langchain
+langchain_community
+langchain-google-genai
+langchain_text_splitters
+langchain_huggingface
+langchain_groq
+passlib
+jose
+bcrypt
+jwt
+python-dotenv
